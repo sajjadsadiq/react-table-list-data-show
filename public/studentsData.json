@@ -1,0 +1,38 @@
+{
+  "Class 1": [
+    { "ID": 101, "Name": "Salahuddin", "Scores": "A+", "Percentage": 95 },
+    { "ID": 102, "Name": "Akash", "Scores": "A", "Percentage": 88 },
+    { "ID": 103, "Name": "Rahim", "Scores": "B", "Percentage": 75 },
+    { "ID": 104, "Name": "Nusrat", "Scores": "A+", "Percentage": 92 },
+    { "ID": 105, "Name": "Ayesha", "Scores": "B+", "Percentage": 80 },
+    { "ID": 106, "Name": "Farid", "Scores": "A-", "Percentage": 85 },
+    { "ID": 107, "Name": "Zara", "Scores": "A+", "Percentage": 94 },
+    { "ID": 108, "Name": "Kabir", "Scores": "B", "Percentage": 78 },
+    { "ID": 109, "Name": "Maya", "Scores": "A", "Percentage": 89 },
+    { "ID": 110, "Name": "Arman", "Scores": "B+", "Percentage": 82 }
+  ],
+  "Class 2": [
+    { "ID": 201, "Name": "Sadh", "Scores": "A+", "Percentage": 96 },
+    { "ID": 202, "Name": "Obaidul", "Scores": "A", "Percentage": 87 },
+    { "ID": 203, "Name": "Tania", "Scores": "B+", "Percentage": 83 },
+    { "ID": 204, "Name": "Imran", "Scores": "B", "Percentage": 76 },
+    { "ID": 205, "Name": "Shireen", "Scores": "A+", "Percentage": 93 },
+    { "ID": 206, "Name": "Rafiq", "Scores": "A-", "Percentage": 85 },
+    { "ID": 207, "Name": "Sabina", "Scores": "B+", "Percentage": 81 },
+    { "ID": 208, "Name": "Jahid", "Scores": "A", "Percentage": 90 },
+    { "ID": 209, "Name": "Rima", "Scores": "B-", "Percentage": 74 },
+    { "ID": 210, "Name": "Faisal", "Scores": "A+", "Percentage": 91 }
+  ],
+  "Class 3": [
+    { "ID": 301, "Name": "Noyon", "Scores": "A", "Percentage": 88 },
+    { "ID": 302, "Name": "Sabbir", "Scores": "A+", "Percentage": 94 },
+    { "ID": 303, "Name": "Tasnim", "Scores": "B-", "Percentage": 73 },
+    { "ID": 304, "Name": "Saima", "Scores": "A-", "Percentage": 86 },
+    { "ID": 305, "Name": "Shahid", "Scores": "B+", "Percentage": 80 },
+    { "ID": 306, "Name": "Rukhsar", "Scores": "A+", "Percentage": 92 },
+    { "ID": 307, "Name": "Nasir", "Scores": "B", "Percentage": 79 },
+    { "ID": 308, "Name": "Shama", "Scores": "A", "Percentage": 89 },
+    { "ID": 309, "Name": "Ahmed", "Scores": "B+", "Percentage": 82 },
+    { "ID": 310, "Name": "Anika", "Scores": "A-", "Percentage": 87 }
+  ]
+}
